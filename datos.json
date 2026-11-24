@@ -1,0 +1,53 @@
+
+[
+    {
+        "nombre": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "categoria": "Novela"
+    },
+    {
+        "nombre": "El principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "categoria": "Literatura infantil"
+    },
+    {
+        "nombre": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Novela"
+    },
+    {
+        "nombre": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "categoria": "Romance"
+    },
+    {
+        "nombre": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "categoria": "Ficción"
+    },
+    {
+        "nombre": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "categoria": "Misterio"
+    },
+    {
+        "nombre": "Harry Potter y la piedra filosofal",
+        "autor": "J. K. Rowling",
+        "categoria": "Fantasía"
+    },
+    {
+        "nombre": "Rayuela",
+        "autor": "Julio Cortázar",
+        "categoria": "Novela"
+    },
+    {
+        "nombre": "El alquimista",
+        "autor": "Paulo Coelho",
+        "categoria": "Ficción"
+    },
+    {
+        "nombre": "Drácula",
+        "autor": "Bram Stoker",
+        "categoria": "Terror"
+    }
+]
